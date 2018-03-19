@@ -7,6 +7,7 @@ import android.widget.TextView;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
+import butterknife.OnClick;
 
 public class LoginActivity extends AppCompatActivity {
     @BindView(R.id.edt_email)
@@ -23,5 +24,17 @@ public class LoginActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
         ButterKnife.bind(this);
+    }
+
+    @OnClick(R.id.btn_login)
+    public void onLoginClicked(){
+
+
+    }
+
+    @OnClick(R.id.btn_register)
+    public void onRegisterClicked(){
+
+
     }
 }

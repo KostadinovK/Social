@@ -18,7 +18,8 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/edt_email"
         android:backgroundTint="@color/colorPrimary"
-        android:hint="Password"/>
+        android:hint="Password"
+        android:inputType="textPassword"/>
     <TextView
         android:id="@+id/btn_login"
         android:layout_width="wrap_content"

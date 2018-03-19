@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1077143014489",
+    "firebase_url": "https://social-c58de.firebaseio.com",
+    "project_id": "social-c58de",
+    "storage_bucket": "social-c58de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077143014489:android:bb650863c71c2ef8",
+        "android_client_info": {
+          "package_name": "com.kosta.social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077143014489-2bi551kr6i7l9fkai8gi9jcfmf98t4vi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kosta.social",
+            "certificate_hash": "91a835446b7ef089b89d9c9c06a232d6725adec7"
+          }
+        },
+        {
+          "client_id": "1077143014489-636dshu20shscsbhgrmoa0cpvirpnid2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN3IHnl3uzEm0cwtYXOsWBMLAZ_4quHgs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077143014489-636dshu20shscsbhgrmoa0cpvirpnid2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
