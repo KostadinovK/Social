@@ -42,9 +42,7 @@ public class LoginActivity extends AppCompatActivity {
         ButterKnife.bind(this);
 
         mAuth = FirebaseAuth.getInstance();
-        if(mAuth.getCurrentUser() != null){
-            redirectToMainActivity();
-        }
+        
 
     }
 
